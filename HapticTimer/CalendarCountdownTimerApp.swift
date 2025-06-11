@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct HapticTimerApp: App {
+struct CalendarCountdownTimerApp: App {
     @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
 
     var body: some Scene {
